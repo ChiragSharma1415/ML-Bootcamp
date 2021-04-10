@@ -31,6 +31,17 @@ Error observed is higher than expectations, so probably a bug in the code, but c
 
 ### 2. KNN (K-Nearest Neighbours)
 
+Loaded the data, split it into training and test data sets.
+
+Defined a function to find out the nearest k neighbours of the point that shall be inputed by the user. The distance between the test/input point and all the training points calculated uing the Euclidean Distance formula, and then printing the nearest k neighbours and along with their index(in the training set).
+
+The distance between the test point selected and all the training points calculated by using the for loop, and therefore printing the nearest neighbours.
+
+#### Observations
+ Tried taking multiple values of K (2,4,6,8...) in the defined function, and also tried inputing different test data points and observing their nearest neighbours.
+ 
+ Later, also printed the K (=4) nearest neighbours of all the test data points in a single code using the for loop, and observing the distances at once.
+
 
 
 
