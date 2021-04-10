@@ -29,7 +29,7 @@ Code took hell lot of time to run {around 8 hours for 50 iterations and learning
 
 Error observed is higher than expectations, so probably a bug in the code, but couldn't figure out what.
 
-
+### 2. KNN (K-Nearest Neighbours)
 
 
 
